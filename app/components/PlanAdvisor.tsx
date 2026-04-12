@@ -249,8 +249,7 @@ export default function PlanAdvisor({
       {/* Widget Panel */}
       {open && (
         <div className="fixed bottom-8 right-8 w-[420px] bg-white rounded-3xl shadow-2xl border border-gray-100 flex flex-col z-50 overflow-hidden"
-style={{ height: '580px', maxWidth: 'calc(100vw - 32px)' }}
-          style={{ height: '580px' }}>
+          style={{ height: '580px', maxWidth: 'calc(100vw - 32px)' }}>
 
           {/* Header */}
           <div className="bg-gray-900 px-5 py-4 flex items-center justify-between flex-shrink-0">
