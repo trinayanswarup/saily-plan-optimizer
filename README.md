@@ -8,9 +8,9 @@ An AI-powered eSIM data plan recommendation tool built for [Saily](https://saily
 
 ## The Problem
 
-Saily users consistently pick the wrong data plan for their trips — running out of data mid-journey or overpaying for data they don't use. This pain point was identified directly from App Store reviews and Trustpilot feedback.
+Saily users consistently pick the wrong data plan for their trips running out of data mid-journey or overpaying for data they don't use. This pain point was identified directly from App Store reviews and Trustpilot feedback.
 
-Saily already has a generic data usage calculator on their website — but it's not personalised, not inside the app, and doesn't use the user's actual history.
+Saily already has a generic data usage calculator on their website but it's not personalised, not inside the app, and doesn't use the user's actual history.
 
 ---
 
@@ -24,7 +24,7 @@ An in-app AI Plan Advisor that:
 - Recommends the best plan with a clear explanation referencing the user's actual data
 
 Example AI output:
-> *"Last time you were in Europe you used 3.2GB over 5 days. With your streaming habits on this 7-day trip, we recommend the 5GB plan at €7.99 — it gives you a comfortable buffer without overpaying."*
+> *"Last time you were in Europe you used 3.2GB over 5 days. With your streaming habits on this 7-day trip, we recommend the 5GB plan at €7.99, it gives you a comfortable buffer without overpaying."*
 
 ---
 
@@ -99,6 +99,4 @@ This project was built as a side project to solve a real customer problem I foun
 
 ---
 
-## License
 
-MIT
