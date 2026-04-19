@@ -10,7 +10,7 @@ This is a Next.js 15+ project using the App Router.
 - Deployment: Vercel
 
 ## Project Purpose
-AI-powered eSIM plan advisor for Saily (Nord Security). Analyses user trip history and usage habits to recommend the best data plan via Groq AI.
+AI-powered eSIM plan advisor for Saily. Analyses user trip history and usage habits to recommend the best data plan via Groq AI.
 
 ## Key Conventions
 - All AI calls go through `/app/api/` route handlers — never call Groq from the frontend
